@@ -1,0 +1,44 @@
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Material Icons'), local('MaterialIcons-Regular'), url(http://web.archive.org/web/20170330180938im_/https://fonts.gstatic.com/s/materialicons/v21/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2) format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+/*
+     FILE ARCHIVED ON 18:09:38 Mar 30, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:10:00 May 17, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.561
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.016
+  esindex: 0.01
+  cdx.remote: 30.821
+  LoadShardBlock: 383.762 (6)
+  PetaboxLoader3.datanode: 191.282 (8)
+  load_resource: 275.487 (2)
+  PetaboxLoader3.resolve: 182.079 (2)
+*/
