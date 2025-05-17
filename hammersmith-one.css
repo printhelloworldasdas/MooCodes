@@ -1,0 +1,37 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Hammersmith One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hammersmith One'), local('HammersmithOne'), url(http://web.archive.org/web/20170330180938im_/https://fonts.gstatic.com/s/hammersmithone/v7/FWNn6ITYqL6or7ZTmBxRhqW9WqC4OJJkfgA_jCJuPCQ.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Hammersmith One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hammersmith One'), local('HammersmithOne'), url(http://web.archive.org/web/20170330180938im_/https://fonts.gstatic.com/s/hammersmithone/v7/FWNn6ITYqL6or7ZTmBxRhiJccsb45t3MJKcv5BJtrIs.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+/*
+     FILE ARCHIVED ON 18:09:38 Mar 30, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:11:15 May 17, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.596
+  exclusion.robots: 0.026
+  exclusion.robots.policy: 0.016
+  esindex: 0.01
+  cdx.remote: 9.125
+  LoadShardBlock: 165.253 (6)
+  PetaboxLoader3.datanode: 299.116 (8)
+  load_resource: 654.623 (2)
+  PetaboxLoader3.resolve: 442.93 (2)
+*/
